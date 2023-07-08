@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Reza</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafareza47&label=Profile%20views&color=0e75b6&style=flat" alt="mustafareza47" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafareza47" alt="mustafareza47" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, NODEJS, SOME FRAMEWORKS.**
 
